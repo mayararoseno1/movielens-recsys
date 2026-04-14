@@ -1,0 +1,17 @@
+# Dataset 
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Outputs da EDA
+*.png
+
+# IDEs
+.vscode/
+.idea/
