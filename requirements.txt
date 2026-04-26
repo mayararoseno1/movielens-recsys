@@ -2,3 +2,7 @@ pymongo
 pandas
 matplotlib
 requests
+scipy
+implicit
+scikit-learn
+numpy
