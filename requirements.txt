@@ -6,3 +6,6 @@ scipy
 implicit
 scikit-learn
 numpy
+fastapi
+uvicorn
+sentence-transformers
